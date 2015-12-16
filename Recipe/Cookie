@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script  type = "text/javascript" src="script.js"></script>
+</head>
+
+<body>
+ <div class = "container">
+	<section class = "preptime">
+		<h1>DARK CHOCOLATE CHIP COOKIE RECIPE</h1>
+		<h3>Approximate Times</h3>
+		<p>
+		<img class = "timer" src = "https://cdn4.iconfinder.com/data/icons/miu/24/editor-alarm-timer-clock-glyph-128.png" />
+		Prep time <strong>10 min</strong> | Cook <strong>10 min</strong> | Ready to eat <strong>1 hour</strong>
+		</p>
+	
+	</section>
+ <div>
+ <img class = "cookie"src = "https://storage.googleapis.com/zgt-user/chocolate_chip_cookie_day.jpg" />
+	<section>
+	  <div class = "ingredients">
+		<h2>Ingredients</h2>
+		<ul>
+			<li><input type = "checkbox">1 cup butter -  softened</li>
+			<li><input type = "checkbox">1 cup coconut sugar</li>
+			<li><input type = "checkbox">1 cup packed brown sugar</li>
+			<li><input type = "checkbox">2 eggs</li>
+			<li><input type = "checkbox">2 tsp. vanilla extract</li>
+			<li><input type = "checkbox">3 cups all purpose flour</li>
+			<li><input type = "checkbox">1 tsp. baking soda</li>
+			<li><input type = "checkbox">2 tsp. hot water</li>
+			<li><input type = "checkbox">1/2 tsp. salt</li>
+			<li><input type = "checkbox">3 cups dark chocolate chips</li>
+		</ul>
+      </div>
+	
+    </section>
+	
+
+</div>
+  <br> 
+    <section>
+
+    	<h2>Directions</h2>
+    	<img class = 'camera' src ="http://images.clipartpanda.com/camera-icon-png-gallery.png"><div class = "camclick" data-text-swap="Show">Hide</div></img>
+    	<ul class="directions">
+			<li><input type = "checkbox">Preheat oven to 350 degrees F <em>(175 degrees C).</em></li>
+			<img class = "instruction" src = "http://cdn.instructables.com/FYN/HJ1H/GN02OWLM/FYNHJ1HGN02OWLM.LARGE.jpg" />
+
+
+			<li><input type = "checkbox">Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans.</li>
+			<img class = "instruction" src = "http://farm3.static.flickr.com/2611/3669405695_7f26713b64.jpg" />
+			<li><input type = "checkbox">Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.</li>
+			<img class = "instruction" src ="http://www.cappersfarmer.com/~/media/Images/CFR/Editorial/Articles/Online%20Articles/2012/09-01/Best%20Ever%20Chocolate%20Chip%20Cookies%20Recipe/Chocolate-Chip-Cookies.jpg"/>
+
+
+			
+		</ul>
+    </section>
+    </div>
+</body>
+</html>
