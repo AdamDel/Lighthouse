@@ -1,4 +1,3 @@
-# Lighthouse
 # Recipe
 This contains all the files for the recipe assignment (html, css & Javascript)
 
